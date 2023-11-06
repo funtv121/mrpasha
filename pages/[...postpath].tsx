@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://thehealthnfitness.com/`
+					` https://thehealthnfitness.com/aquaman-and-the-lost-kingdom/`
 				}`,
 			},
 		};
